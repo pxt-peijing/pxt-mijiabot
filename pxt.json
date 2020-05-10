@@ -6,7 +6,6 @@
     "dependencies": {
         "core": "*",
         "neopixel": "github:kittenbot/pxt-neopixel#v0.6.13"
-        //"pxt-sonar": "github:pxt-peijing/chaoshengbo_v1"
     },
     "files": [
         "README.md",
